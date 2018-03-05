@@ -1,0 +1,48 @@
+
+<H1>Intentieverklaring ‘Overal een deelfiets met één account’</H1>
+
+<b>1. Overwegingen</b>
+Deelfietsen kunnen een veel grotere bijdragen leveren aan stedelijke mobiliteit wat uit oogpunt van gemak, duurzaamheid en efficiënt omgaan met schaarse ruimte wenselijk is.
+Deelfietsen worden veel aantrekkelijker voor mensen als ze eenvoudig (zonder steeds opnieuw te registreren) te gebruiken zijn, ook als fietsen door verschillende leveranciers aangeboden worden.
+In opdracht van de G4 (Gemeenten Amsterdam, Rotterdam, Utrecht en Den Haag, en de VRA) het is rapport “Interoperabiliteit van deelfietsen” uitgebracht waar we graag op voortbouwen
+In 2017 is onder de vlag van Tour de Force een aanzet gemaakt in de vorm van “ Open Standaard huur- en deelfietsen” waar we ook graag op voortbouwen.
+
+<b>2. Doel</b>
+Overal een fiets in Nederland met één account. Kortom een interoperabel systeem voor het huren en delen van fietsen (van verschillende organisaties/operators) gebaseerd op een decentrale samenwerking.
+We willen dit in drie fasen realiseren:
+In de eerste fase maken we fietsen voor de deelnemende partijen zichtbaar:
+Specificaties voor fase 1: 1 april 2018
+API’s operationeel:  1 mei 2018
+Fase 2: eenmalige registratie (single sign on) - plan gereed: 1 juni 2018, uitvoering afhankelijk van plan
+Fase 3: reserveren, betalen, slot openen -  plan gereed: 1 juni 2018, uitvoering afhankelijk van plan
+Voor fase 2 en 3 streven we ernaar dat op 1 maart  2019 de reiziger met accounts van verschillende providers toegang kan krijgen tot verschillende fietsdeelsystemen (van verschillende bike-operators). Realisatie is afhankelijk van te maken plannen, deelname partijen en realiseren benodigde financiering.
+
+<b>3. Definities</b>
+De Provider beheert de relatie met de klant en zorgt dat deze een fiets kan afnemen.
+De Bike-operator exploiteert de fietsten, en maakt mogelijk dat deze kunnen worden gehuurd        
+
+
+<b>4. Wat we gaan doen</b>
+Op basis van de bovengenoemde fasering gaan we het volgende realiseren:
+
+
+<u>Technische interoperabiliteit</u>
+We gaan technische koppelingen maken gebaseerd op API’ en gaan deze goed documenteren.
+Bike-operators gaan de beschikbaarheid, prijsinformatie en de locatie van de fietsen, delen met deelnemende partijen.
+Bike-operators gaan het mogelijk maken de huur te starten en te stoppen via andere partijen (bike-operators / providers)
+Bike-operators gaan het mogelijk maken het slot fysiek open te maken via andere operators / providers.
+
+<u>Organisatorische interoperabiliteit</u>
+We kiezen voor een decentrale oplossing. Het protocol / de standaard zal wel centraal geregistreerd worden bij en openbaar gemaakt worden door een onafhankelijke partij, zo mogelijk het CROW.
+Partijen die deze intentieverklaring ondertekenen kunnen acteren als operator en/of provider.
+Voor fase 2 en fase 3 zullen wij afspraken maken over de bijdragen per partij en wij denken dat interoperabiliteit alleen tot stand kan komen met een bijdrage van de overheid.
+
+<u>Juridische interoperabiliteit</>
+Waar mogelijk gebruiken én creëren we open source software.
+De intentieverklaring is in juridische zin geen afdwingbare overeenkomst.  
+Partijen die deze intentieverklaring ondertekenen verklaren zich binnen hun mogelijkheden in te zetten voor het realiseren van de bovenstaande doelen.
+ 
+
+
+ondertekening
+Amsterdam, 29 januari 2018
